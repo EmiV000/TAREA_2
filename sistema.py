@@ -6,5 +6,7 @@ class Sistema:
         
 if __name__ == '__main__':
     sis = Sistema()
-    print("_________________________")
+    print("--------------")
     print(sis.nombre)
+    print("--------------")
+    
